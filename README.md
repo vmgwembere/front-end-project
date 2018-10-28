@@ -46,8 +46,6 @@ Clear sections
 Social links and Email
 
 ### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
 
 Semantic HTML: All pages have been written with semantic HTML in mind.
 Downloadable Audio: The site includes both streaming and downloadable audio for users
@@ -63,12 +61,6 @@ Embedded Video: The site has a number of youtube videos embedded into it.
 -Bootstrap
 -JQuery
 -FontAwesome
-
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
-
 
 ## Testing
 
