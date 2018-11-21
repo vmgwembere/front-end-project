@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # Frontend-Band-Project
+=======
+# front-end-project
+
+>>>>>>> 3b5e339784afedf627ff164880cefc4f6b4b2be5
 
 A static (front-end only) website for a band
 
@@ -6,6 +11,7 @@ The band would like to use the site to showcase their music and publicise their 
  
 ## UX
  
+<<<<<<< HEAD
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
@@ -13,6 +19,8 @@ In particular, as part of this section we recommend that you provide a list of U
 
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
+=======
+>>>>>>> 3b5e339784afedf627ff164880cefc4f6b4b2be5
 User Stories
 Existing long term fans of the Monkees and Brand New Fans who have just heard the Monkees and want to learn more.
 
@@ -29,7 +37,11 @@ As a new Monkees fan I should be able to find out about the monkees, who they ar
 As a new fan I should be able to use the site to find the band and the band members social media pages.
 
 Scope
+<<<<<<< HEAD
 Using the user the above user storys and he project brief I identified the follwoing requirements:
+=======
+Using the user the above user storiess and the project brief I identified the follwoing requirements:
+>>>>>>> 3b5e339784afedf627ff164880cefc4f6b4b2be5
 
 Functional Requirements
 The Project must be a series of static webpages with multiple sections
@@ -52,6 +64,7 @@ Clear sections
 Social links and Email
 
 ### Existing Features
+<<<<<<< HEAD
 - Feature 1 - allows users X to achieve Y, by having them fill out Z
 - ...
 
@@ -67,11 +80,29 @@ In this section, you should mention all of the languages, frameworks, libraries,
 - [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
 
+=======
+
+Semantic HTML: All pages have been written with semantic HTML in mind.
+Downloadable Audio: The site includes both streaming and downloadable audio for users
+Embedded Video: The site has a number of youtube videos embedded into it.
+
+### Features Left to Implement
+- Another feature idea
+- A contact form
+
+
+## Technologies Used
+
+-Bootstrap
+-JQuery
+-FontAwesome
+>>>>>>> 3b5e339784afedf627ff164880cefc4f6b4b2be5
 
 ## Testing
 
 All code used on the site has been tested to ensure everything is working as expected
 Site viewed and tested in the following browsers: Google Chrome, Opera, Microsoft Edge, Mozilla Firefox
+<<<<<<< HEAD
 The "theQuotes" section (quotes.js) was tested with Jasmine (jasmine.js and jasmine.html)
 
 1. Contact form:
@@ -85,6 +116,13 @@ In addition, you should mention in this section how your project looks and works
 You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
+=======
+
+checking to see if the images all scaled and maintained aspect ratio instead of streching
+Checking to see if the responsive layout changed at the correct breakpoints
+Checking to see if my media queries behaved as expected
+
+>>>>>>> 3b5e339784afedf627ff164880cefc4f6b4b2be5
 
 ## Deployment
 
@@ -101,7 +139,12 @@ In addition, if it is not obvious, you should also describe how to run your code
 ## Credits
 
 ### Content
+<<<<<<< HEAD
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+=======
+
+All Bio Text Content was taken from wikipedia
+>>>>>>> 3b5e339784afedf627ff164880cefc4f6b4b2be5
 
 ### Media
 - The photos used in this site were obtained from ...
@@ -109,4 +152,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 ### Acknowledgements
 
 - I received inspiration for this project from X
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3b5e339784afedf627ff164880cefc4f6b4b2be5
