@@ -76,3 +76,5 @@ This site is hosted using GitHub pages, deployed directly from the master branch
 ### Acknowledgements
 
 - I received inspiration for this project from CodeInstitute project outline.
+
+### view site here >> https://vmgwembere.github.io/front-end-project/ 
