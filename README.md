@@ -65,7 +65,6 @@ This site was tested across multiple browsers and on multiple mobile devices to 
 ## Deployment
 
 This site is hosted using GitHub pages, deployed directly from the master branch.
-## Credits
 
 ### Content
 - taken from various sources through google search
